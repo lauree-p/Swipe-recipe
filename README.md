@@ -1,3 +1,3 @@
 # Swipe-recipe
 
-https://lauree-p.github.io/Swipe-recipe/
+http://swipe-recipe.com/
